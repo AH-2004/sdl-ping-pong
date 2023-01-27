@@ -1,6 +1,6 @@
 name = main
 
-files = main.cpp
+files = main.cpp objects.cpp
 libs = -l SDL2 -l SDL2main -l SDL2_image
 
 make:
